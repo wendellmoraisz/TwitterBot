@@ -6,7 +6,6 @@ const twit = new Twit({
     consumer_secret: process.env.API_SECRET_KEY,
     access_token: process.env.ACESS_TOKEN,
     access_token_secret: process.env.ACESS_SECRET_TOKEN,
-    timeout_ms: 5000,
 });
 
 const searchTerm = "eu%22amo%22javascript";
