@@ -11,6 +11,8 @@ The application get a 10 last tweets with a therms searched and retweets them.
 
 # How to run the project
 
+Create a account in https://developer.twitter.com/en and get your API keys in Developer Portal
+
 ```bash
 
 # clone repositorie
